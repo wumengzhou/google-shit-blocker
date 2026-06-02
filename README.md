@@ -16,6 +16,7 @@ To run this script, you first need a browser extension that manages UserScripts.
 1. Go to the [Tampermonkey page on the Chrome Web Store](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 2. Click **Add to Chrome**.
 3. Confirm by clicking **Add extension**.
+4. **Enable Developer Mode:** Go to `chrome://extensions`, and in the top right corner, toggle **Developer mode** to **ON**. This is required for some UserScript functionalities.
 
 ### 2. Install the Script
 Once Tampermonkey is installed:
